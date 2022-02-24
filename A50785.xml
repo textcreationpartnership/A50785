@@ -1,0 +1,250 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>For the good of the publick. A true method, shewing all ranks and degrees of men, how to purchase an estate, or make provision for posterity, out of idle expences ... By John Middleton, Esq;</title>
+            <author>Middleton, John, 17th/18th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1720</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50785</idno>
+            <idno type="STC">Wing M1975</idno>
+            <idno type="STC">ESTC T174454</idno>
+            <idno type="EEBO-CITATION">99834203</idno>
+            <idno type="PROQUEST">99834203</idno>
+            <idno type="VID">38701</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50785)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38701)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1920:01)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>For the good of the publick. A true method, shewing all ranks and degrees of men, how to purchase an estate, or make provision for posterity, out of idle expences ... By John Middleton, Esq;</title>
+                  <author>Middleton, John, 17th/18th cent.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The first edition.</edition>
+               </editionStmt>
+               <extent>18p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author, and are to be sold at the Union-Crown-Fire-Office,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>[1720?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A life insurance scheme.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38701:1" rendition="simple:additions"/>
+            <p>
+               <hi>For the Good of the Publick.</hi> A True Method, SHEWING All Ranks and Degrees of Men, How to purchaſe an Eſtate, Or make Proviſion for Poſterity, out of idle Expences: AND How a Gentleman may advance the Fortune of his Children, without impairing his Eſtate; and how a Tradeſman may do the like for his, and never miſs it out of his Stock; and how that None can be ſo poor, but that they may be Purchaſers.</p>
+            <p>Alſo Ways and Means diſcovered to enlarge Trade and Com<g ref="char:EOLhyphen"/>merce, and the Improvement of Navigation, and the Advance<g ref="char:EOLhyphen"/>ment of the King's Revenues, plentifully ſupplying the poor; and for the common Good of all Merchants and Traders, either by Sea or Land.</p>
+            <p>Recommended to all Cities and Corporations in <hi>Great Britain</hi> and <hi>Ireland.</hi>
+            </p>
+            <p>By <hi>John Middleton,</hi> 
+               <abbr>Eſq</abbr>
+            </p>
+            <p>
+               <hi>The firſt Edition.</hi>
+            </p>
+            <p>
+               <hi>Edinburgh,</hi> Printed for the Author, and are to be ſold at the <hi>Union-Crown-Fire-Office,</hi> in the Head of the <hi>Canongate.</hi> Price Sixpence.</p>
+            <pb facs="tcp:38701:2" rendition="simple:additions"/>
+            <pb facs="tcp:38701:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:38701:3" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:38701:3"/>
+            <head>To the Right Honourable, the Lord PROVOST, BAILIES, DEAN of GILD, TREASURER, and other Members of the Honourable Council of the Ancient and Loyal City of <hi>Edinburgh.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>AS it hath been the conſtant Practice of your noble An<g ref="char:EOLhyphen"/>ceſtors to do Good, a Virtue whoſe radiant Luſtre ſhines no leſs refulgently in your Honour; for which Reaſon, Sir, firſt asking your Honour's Pardon, I make bold to ſhelter this my Labour under the ſhadow of your Honourable Name, not in the leaſt doubting but that you will, not only patronize, but encourage any <g ref="char:V">Ʋ</g>ndertaking that may be for the publick Good, and Welfare of all Ranks and Degrees of Men, in this ancient and Loyal City, of which your Honour fills the Pre<g ref="char:EOLhyphen"/>torian Chair.</p>
+            <p>Nor can I do leſs than perſwade my ſelf, but that your Honour and all who bear Office in this ancient Body, being Gentlemen of ſuch noble Worth and unblemiſhed Characters, placed as Rulers over this honourable Town, by the unerring Hand of Divine Providence, to defend the Rights of its People by your juſt Ad<g ref="char:EOLhyphen"/>miniſtration of Law and Juſtice; all Men having juſt Rea<g ref="char:EOLhyphen"/>ſon to believe, you have its Welfare near at Heart; will give all ſuitable Encouragement to promote any <g ref="char:V">Ʋ</g>ndertaking that will be for the Good of all Ranks and Degrees of Men.</p>
+            <p>And that every particular Member may not be wanting to carry on ſo good a Work, I do aſſure them, if any of them pleaſe to embark in this <g ref="char:V">Ʋ</g>ndertaking, that a true Method is found out, ſhewing how to purchaſe an Eſtate out of idle Ex<g ref="char:EOLhyphen"/>pences, and to make Proviſion for Poſterity, for leſs than One Peny <hi>per</hi> Day for <hi>20</hi> Pounds, and leſs than five Pence <hi>per</hi> Day for <hi>100</hi> Pounds,</p>
+            <closer>
+               <signed>By your moſt obedient Servant, <hi>J. M.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb n="4" facs="tcp:38701:4"/>
+            <head>To the READER.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>NOtwithſtanding there have been ſeveral Funds erected in ſeveral Parts of this Kingdom, in order to promote the Publick Good, yet never was any erected, which will be ſo generally beneficial as this, becauſe in this every one that enters is ſure to be a Gainer; ſo that in this Fund there is no Hazard run upon any Account whatever, nor need any be in Fear of entring.</p>
+            <p>For this Fund will not only be advantageous and profitable in general, but will be a Bank to ſupply the immediate Exi<g ref="char:EOLhyphen"/>gencies of any of its Members, and thereby prevent their being impoſed upon for the future, by the mercileſs Cruelty of the gripping Pawn-brokers and ravening Uſurers, who many times ruine and deſtroy their Neighbours under Pretence of Friend<g ref="char:EOLhyphen"/>ſhip, by making them pay ſuch extravagant Intereſt, as is no way juſtifiable by the Laws of GOD or Man. I have known ſeveral Perſons that have been obliged to pay after the Rate of ſixty <hi>per Cent</hi> to theſe Extortioners, which have been the Ruin of themſelves and Families, by paying ſuch extravagant Intereſt.</p>
+            <p>Now this Bank for the future will prevent all ſuch Misfor<g ref="char:EOLhyphen"/>tunes to every one of its Members; for every Subſcriber ſhall have what Money they ſhall have Occaſion for, at five <hi>per Cent,</hi> without any Trouble or Charge; which moſt certainly will be a great Advantage. Now this Office of Inſuring upon Lives, and other Inſuring Offices are allowed by ſeveral Acts of Parliament, to be founded upon Truth and Juſtice, and are for the apparent Intereſt of the Publick, ſettled upon Funds, Contingencies anſwering their Ends, whereby the Members will
+<pb n="5" facs="tcp:38701:4"/>be great Gainers, and the Undertaking ſupported, and th Ruin of many prevented. The Author having no other Deſign in promoting this Undertaking, but the common Good of all Men, as a Duty incumbent upon all, and more eſpe<g ref="char:EOLhyphen"/>cially when the Good of the Publick and the Intereſt of the Poor is ſo nearly concerned: But I hope here will be a Fund where they or their Poſterity may be rich, which that they may, is the Deſire of</p>
+            <closer>
+               <signed>Your humble Servant, <hi>J. M.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="introduction">
+            <pb n="6" facs="tcp:38701:5"/>
+            <head>T<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Introduction to the Articles.</head>
+            <p>BEfore I proceed to the Articles, ſomething, by way of Introduction, will be highly uſeful for the better un<g ref="char:EOLhyphen"/>derſtanding of the Articles themſelves: For here is a noble Proſpect before you, in which if you pleaſe to embark, you will be ſure to be a Gainer; an Undertaking that can never fail of its deſired End, being ſettled upon the Foun<g ref="char:EOLhyphen"/>dation of Law and Juſtice, where no Fraud or Deceit can be committed by any, nor can the Governors run away with one Peny of the Profit; for the Governors will be choſen out of the Subſcribers themſelves, ſuch as take out 10 Bonds, and inſure upon 10 Lives each, and will be elected by the reſt of the Subſcribers; for every Subſcriber will have a Right to vote at the Election of their Governors; ſo by this Means the Go<g ref="char:EOLhyphen"/>vernors will be Gentlemen or ſubſtantial Tradeſmen, and un<g ref="char:EOLhyphen"/>doubtedly Men of more Honour than to commit any Fraud for fifthy Lucre's ſake.</p>
+            <p>And that this Undertaking will be advantageous to all Ranks and Degrees of Men, is very demonſtrable to the meaneſt Capacity; for here a Gentleman may advance the Fortune of his Children, and leave them One or Two hundred Pounds for leſs than Fivepence <hi>per</hi> Day for a <hi>L.</hi> 100, and never miſs it at the Year's End, and a flouriſhing Tradeſman may do the like by his, and never miſs it out of his Stock; ſo like<g ref="char:EOLhyphen"/>wiſe Mechanicks, for leſs than one Peny a Day, may leave their Children <hi>L.</hi> 20 out of idle Expences, and ſeafaring or la<g ref="char:EOLhyphen"/>bouring Men may do the like, and not miſs it at the Year's End, becauſe it will go out by ſo ſmall a Matter at a Time. Which fully perſwades me that there can be none ſo poor, but may be Purchaſers in this Undertaking, if they pleaſe; as will appear more fully by the following Articles.</p>
+         </div>
+      </front>
+      <body>
+         <div type="articles">
+            <pb n="7" facs="tcp:38701:5"/>
+            <head>ARTICLES TO Eſtabliſh a Company for ſettling a Bank in <hi>Edinburgh,</hi> by which all Ranks and Degrees of Men may purchaſe Eſtates, or make Proviſion for Poſte<g ref="char:EOLhyphen"/>rity.</head>
+            <head type="sub">ARTICLE I.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HAT there ſhall be Five, Seven, or Nine Gover<g ref="char:EOLhyphen"/>nors, with the Secretary, who ſhall always be one of the Governors, and the reſt of the Governors ſhall be elected annually, out of ſuch of the Sub<g ref="char:EOLhyphen"/>ſcribers as ſhall inſure upon ten Lives each: That publick Notice ſhall be given to the Subſcribers, to come to the Office, and elect their Governors on the <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Day of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> who ſhall take Care of the Caſh, and inſpect the Books once every Quarter, and take an Account of what Money is paid into the Office, and what is let out upon In<g ref="char:EOLhyphen"/>tereſt, and what paid out of the Office by the Secretary, his Deputy, or Clerk, to the inſured, at the Death of their No<g ref="char:EOLhyphen"/>minee: And a Note of what remains in the Office to pay Claims, and to be let out on Intereſt, ſhall be locked up in the Cheſt, for which the Secretary ſhall be accountable; and if he im<g ref="char:EOLhyphen"/>bezel any of the Company's Money, he ſhall make it good.</p>
+            <p>ART. II. Every Perſon that inſures in this Company, ſhall pay for every Life that he or ſhe inſures upon, the Stamp-Duty, one Shilling for the Bond, and two Shillings Entrance
+<pb n="8" facs="tcp:38701:6"/>to the Secretary, his Deputy, or Clerk, and five Shillings and Sixpence <hi>per</hi> Quarter to the Company, and Sixpence <hi>per</hi> Quar<g ref="char:EOLhyphen"/>ter to the Secretary for defraying of Charges.</p>
+            <p>ART. III. Every Perſon who inſures, ſhall for every Life that they inſure upon, pay 5 <hi>ſh.</hi> 6 <hi>d. per</hi> Quarter to the Com<g ref="char:EOLhyphen"/>pany, and Sixpence <hi>per</hi> Quarter to the Secretary, for the de<g ref="char:EOLhyphen"/>fraying of Charges belonging to the Office, which 5 <hi>ſh.</hi> and 6 <hi>d.</hi> ſhall ly as a Fund in the Stock of the Company to make all Claims good, as they become due.</p>
+            <p>ART. IV. Every Subſcriber that inſures upon the Life of any Perſon not exceeding the Age hereafter mentioned, and ſhall pay 9 Months to the Office, ſhall be entitled 20 Pounds in the Stock of this Company, and ſhall at the Death of his or her Nominee, receive the ſame within 15 Days after the next Quarter Day the Perſon inſured upon ſhall die.</p>
+            <p>ART. V. That every Subſcriber at the Death of his or her Nominee, ſhall give Notice to the Secretary, his Depute, or Clerk, that they may acquaint the Governors of the ſame; and if the Perſon inſured upon die not in Town, the Inſurer ſhall bring a Certificate under the Hand of the Miniſter, Church-wardens, and Pariſh-clerk of the Pariſh, where the Perſon inſured upon died, to ſatisfie the Governors, that the Perſon inſured upon is really dead. To prevent any fraudulent Practice being put upon the Company, he by whom it is com<g ref="char:EOLhyphen"/>mitted ſhall be excluded from all Right or Intereſt in this Undertaking.</p>
+            <p>ART. VI. That every Subſcriber may inſure upon the Life of any Perſon, of any Age or Sex, under, not above 50, with<g ref="char:EOLhyphen"/>out their Knowledge or Conſent; giving an Account in writ<g ref="char:EOLhyphen"/>ing of their Name and Place of Abode, that he may enter them in the Office-book.</p>
+            <p>
+               <pb n="9" facs="tcp:38701:6"/>
+ART. VII. Any Perſon may inſure upon as many Lives as they pleaſe, paying upon each Life they inſure upon, the Stamp-Duty, and one Shilling for the Bond, and two Shillings Entrance to the Secretary, his Deputy, or Clerk, and 5 <hi>ſh.</hi> 6 <hi>d. per</hi> Quarter to the Company, and 6 <hi>d. per</hi> Quarter to the Secretary for defraying of Charges.</p>
+            <p>ART. VIII. Every Subſcriber that inſures upon ten Lives, ſhall have five upon Intereſt; and every one that inſures upon eight, ſhall have four upon Intereſt; and every one that in<g ref="char:EOLhyphen"/>ſures upon ſeven ſhall have three upon Intereſt; and every one that inſures upon ſix, ſhall have two upon Intereſt; and every one that inſures upon five, ſhall have one upon Intereſt; and every one that inſures upon one, two, three, or more, for every Life that they inſure upon, ſhall after have one upon Intereſt, paying the Intereſt every Quarter, and deduct<g ref="char:EOLhyphen"/>ing the Principal as the Claims become due.</p>
+            <p>ART. IX. If any Perſon inſured, or any Perſon inſured upon, remove his or her Habitation, the Perſon inſured ſhall give Notice thereof to the Clerk, and have their Bond indorſed at the Office, paying one Shilling to the Clerk. Alſo every Perſon inſuring, ſhall pay their Quarterage within 15 Days after every Quarter-Day, upon the Forfeiture of his, or her Bond: And when any Perſon pays, a Receipt ſhall be given for the ſame, ſigned by the Secretary or the Clerk of the Com<g ref="char:EOLhyphen"/>pany.</p>
+            <p>ART. X. If any Perſon inſured die before his or her No<g ref="char:EOLhyphen"/>minee, the Intereſt of his or her Bond, ſhall continue to his or her Heirs, Executors, Adminiſtrators, and Aſſigns, they taking out a new Bond in their own Name, and paying for it according to the ſecond Article; at which Time they muſt return the old Bond to be filed in the Office.</p>
+            <p>ART. XI. That a general Court ſhall be held within 14 Days after every Quarter-Day, at the Office, where all Claims
+<pb n="10" facs="tcp:38701:7"/>will be paid, according to the exact Tenor of theſe Articles; at the Receipt of which, 5 <hi>per Cent</hi> ſhall be deducted, and all ſuch Deductions ſhall be paid back into the Stock of the Company, to increaſe and augment the ſame; and at all ſuch Quarterly Courts, Notice ſhall be given to the Subſcribers, to come and elect their Governors, according to the firſt Article, out of ſuch of the ſenior Members, as have not as yet ſerved as Governors.</p>
+            <p>ART. XII. No Perſon (inſuring in this Office of Inſurance upon Lives) ſhall pay Quarterage above ten Years upon one Life, for after ten Years are expired, all Payments to this Company ceaſe, except two Shillings <hi>per</hi> Quarter to the firſt 500: Which two Shillings <hi>per</hi> Quarter will intitle them to <hi>L.</hi> 20 in the Stock of this Company for ever; and at the Death of every new Nominee that they inſure upon, they ſhall receive <hi>L.</hi> 20; and the ſecond 500 ſhall be intitled to <hi>L.</hi> 20 in the Stock of this Company, as long as they live, for paying one Shilling <hi>per</hi> Quarter at the Death of every new Nominee, after ten Years are expired, Sixpence <hi>per</hi> Quarter of which muſt go to the Secretary, for defraying of Charges, and the reſt into the Stock of the Company; ſo that they who enter young in the laſt 500, will be ſure to be great Gainers, for they will receive <hi>L.</hi> 20 at the Death of every new Nominee ſo long as they live, and the laſt 1000 ſhall (ſo long as they take out Bonds, and pay their Quarterage) be entitled to <hi>L.</hi> 20 in the Stock Company.</p>
+            <p>ART. XIII. No Perſon ſhall receive any Claim or Benefit before 9 Months are expired, and then if the Perſon inſured upon die in the 10th Month, the inſured ſhall receive <hi>L.</hi> 20; and if the Perſon inſured upon die before 9 Months, the Inſurer ſhall (if he pleaſes) take out another Bond, and at the End of 9 Months be intitled to <hi>L.</hi> 20, and at the Death of his Nominee receive the ſame.</p>
+            <p>
+               <pb n="11" facs="tcp:38701:7"/>
+ART. XIV. That if it ſhould pleaſe God, at any Time to afflict theſe Parts with the Plague, Peſtilence, or Famine, or any other violent and raging Diſtemper, in ſuch Caſe the Of<g ref="char:EOLhyphen"/>fice ſhall be ſhut up, and no Claims paid till ſuch Contagion is over, and no Subſcriber inſuring upon ſuch who ſhall lay violent Hands to themſelves, or die by Duelling, or ſuffer for Treaſon, Rebellion, or any other capital Crime, or die any other than a natural Death, ſhall receive any Claim. But that they may be no Loſers by this Undertaking, any of the Perſons to whom ſuch Misfortune ſhall happen, ſhall have Liberty to take out a new Bond, and pay no Quarterage till the ſame be ex<g ref="char:EOLhyphen"/>pired that they had before paid, and at the Death of their Nominee receive <hi>L.</hi> 20.</p>
+            <p>ART. XV. Any of the Members of this Company having Occaſion for Money, ſhall be ſupplied with what they want, leaving their Bond or Bonds in Pledge of their Security, with the Secretary, or his Deputy, and a Note from under their Hands for this Money they receive, paying the Intereſt after the Rate of 5 <hi>per Cent</hi> every Quarter, till they can pay back the Principal into the Office; at which Time a Receipt ſhall be given them on the Back of the Bond; that any Inſurer may by Aſſignment or Transfer, make over the Intereſt in his or her Bond to any other, and they to whom the Bond is aſſigned, muſt take out a Bond in their own Names, and the Perſon before inſured upon, and then they ſhall be intit<g ref="char:EOLhyphen"/>led to <hi>L.</hi> 20 for each Bond ſo aſſigned, and all other Privi<g ref="char:EOLhyphen"/>leges thereunto belonging; and will, at the Death of his or her Nominee, receive the ſame.</p>
+            <p>ART. XVI. <hi>John Middleton,</hi> Gentleman, and his Aſſigns ſhall be Secretary and chief Clerk of this Company of Inſurance upon Lives for ever, and that he ſhall be accountable to the Governors for all the Subſcribers Money paid into the Office, within 15 Days after every Quarter-Day; and that the Secre<g ref="char:EOLhyphen"/>tary ſhall pay all Charges, as the Rent of the Office, Books,
+<pb n="12" facs="tcp:38701:8"/>Printing, Pens, Ink, Paper, Fire, Candle, <hi>&amp;c.</hi> and the Governors Charges, for the Time being, till their Salaries can be ſettled out of the Sixpence <hi>per</hi> Quarter: And what remains over and above defraying of the aforeſaid Charges, ſhall be imployed by the Secretary for his own proper Uſe.</p>
+            <p>ART. XVII. That a ſtrong Cheſt be provided to keep the Company's Caſh, with three, five, or ſeven Keys; which Keys ſhall be kept by the Secretary and Governors for the Time being. Each of them ſhall have a particular Key, and ſhall al<g ref="char:EOLhyphen"/>ways be preſent at the opening of the Cheſt every Quarter-Day; ſo that the Company ſhall have the Care of the Caſh in their own Hands, and be their own Security, which will be a ſufficient Satisfaction to the Subſcribers, that no Fraud can be committed by any; and if any Equality happen at any of the Quarterly Courts, the ſenior Governor ſhall have the caſting Vote; and it ſhall be in the Power of the Secretary and the reſt of the Governors to make any By-law, Rules, or Order, if they govern themſelves according to theſe Articles, for the Good and Welfare of the Company, and may when they have Stock ſufficient, buy Land for their Security when they pleaſe, <hi>&amp;c.</hi>
+            </p>
+            <p>ART. XVIII. That the Perſon inſured upon be in perfect Health at the Time of Entrance, and that as ſoon as 250 Bonds are delivered out, a proper Place for the Office ſhall be taken, the Governors elected, and Claims ſhall be paid as they become due: And to prevent the Suſpicion of the leaſt Fraud or Hazard that any Subſcriber may fear in this Undertaking, this is to ſatisfie every Subſcriber, that they ſhall pay no Quarterage to the Office, till ſuch Time as the Governors are ready to take Charge of the Caſh.</p>
+            <p>ART. XIX. That when this Company is complete, and the Governors Salaries ſettled, a Deed of Settlement ſhall be drawn between the Secretary and the Governors, and ſhall
+<pb n="13" facs="tcp:38701:8"/>be enrolled in the High Court of Chancery, according to Act of Parliament, and a true and exact Copy of the aforeſaid Deed ſhall always be kept in the Office, and read over to the Company every Year, before the Election of their Governors, and a Seal belonging to this Office alterable at Pleaſure.</p>
+         </div>
+         <div type="explanation">
+            <head>EXPLANATION.</head>
+            <p>TO ſhew my Readers that this Undertaking is not founded upon Chimera's of an idle and fantaſtick Brain, but is real Matter of Fact, and will make all Claims good according to the Articles.</p>
+            <p>And to ſet every Thing in as true a Light as I can, and make it appear to every one's underſtanding as plain as the Sun at Noon-day; I ſhall ſhew what Number of Perſons ſhall die every Year, according to the common Computation of Lives, and what Money the Claimants will receive, and what the Intereſt of the grand Stock or Bank will be every Year for 10 Years, and what the Increaſe will amount to in 10 Years Time, and what the 11th Years Increaſe will alſo amount unto.</p>
+            <p>If 1000 Perſons inſure the firſt Year, 15 may die, and the Claimants will receive <hi>L.</hi> 300, and the inſured will pay <hi>L.</hi> 1100; which with the <hi>L.</hi> 15 Deduction, when the Claims are paid, will be in this Year no leſs than <hi>L.</hi> 815 Increaſe.</p>
+            <p>If 1500 inſure in the ſecond Year, 30 may die, and the Claim<g ref="char:EOLhyphen"/>ants receive <hi>L.</hi> 600, and the inſured will pay <hi>L.</hi> 1650; which will pay the Claims, and <hi>L.</hi> 1080 remains; which with the Intereſt of <hi>L.</hi> 815, which is <hi>L.</hi> 40 <hi>ſh.</hi> 15; and the <hi>L.</hi> 30, De<g ref="char:EOLhyphen"/>duction, will in this Year be <hi>L.</hi> 2935, <hi>ſh.</hi> 15.</p>
+            <p>If 2000 inſure in the third Year, 60 may die, and the Claim<g ref="char:EOLhyphen"/>ants receive <hi>L.</hi> 1200, and the inſured pay <hi>L.</hi> 2200, which with <hi>L.</hi> 60 deducted, and the Intereſt of <hi>L.</hi> 2935, <hi>ſh.</hi> 15; which <hi>L.</hi> 146, <hi>ſh.</hi> 15 and <hi>d.</hi> 9, will pay all Claims, and <hi>L.</hi> 4141, <hi>ſh.</hi> 10 and <hi>d.</hi> 9 will remain this Year.</p>
+            <p>
+               <pb n="14" facs="tcp:38701:9"/>
+In the fourth may die 60, and the Claimants receive <hi>L.</hi> 1200, and the inſured pay <hi>L.</hi> 2200, which with the Intereſt of <hi>L.</hi> 4141, <hi>ſh.</hi> 10 and <hi>d.</hi> 9 and the <hi>L.</hi> 60 deducted, will pay all Claims, and <hi>L.</hi> 5408, <hi>ſh.</hi> 12 <hi>d.</hi> 3 ½ remain.</p>
+            <p>In the fifth Year may die 60, and the Claimants receive <hi>L.</hi> 1200, and the inſured pay <hi>L.</hi> 2200, which with the Intereſt of <hi>L.</hi> 5408, <hi>ſh.</hi> 12 <hi>d.</hi> 3 ½, which is <hi>L.</hi> 278, <hi>ſh.</hi> 8 <hi>d.</hi> 6 ¾, and ſo <hi>L.</hi> 60 deducted will pay all Claims, and <hi>L.</hi> 6746 <hi>ſh.</hi> 18 <hi>d.</hi> 10 ¼ remain.</p>
+            <p>In the ſixth Year may die 60, and the Claimants receive <hi>L.</hi> 1200, and the inſured pay <hi>L.</hi> 2200, which with the Intereſt of <hi>L.</hi> 6746, <hi>ſh.</hi> 18 <hi>d.</hi> 10 ¼, which is <hi>L.</hi> 337, <hi>ſh.</hi> 6 <hi>d.</hi> 11, will pay all Claims, and <hi>L.</hi> 8144 <hi>ſh.</hi> 5 <hi>d.</hi> 10 ¼ remain.</p>
+            <p>In the ſeventh may die 60, and the Claimants receive <hi>L.</hi> 1200, and the inſured pay <hi>L.</hi> 2200, which with the Intereſt of <hi>L.</hi> 8144 <hi>ſh.</hi> 5 <hi>d.</hi> 10 ¼, which is <hi>L.</hi> 405, <hi>ſh.</hi> 4 <hi>d.</hi> 3 ¾ will pay all Claims, and <hi>L.</hi> 9609, <hi>ſh.</hi> 10 <hi>d.</hi> 2 remain.</p>
+            <p>In the eighth Year may die 60, and the Claimants receive <hi>L.</hi> 1200, and the inſured pay <hi>L.</hi> 2200, which with the Intereſt of <hi>L.</hi> 9609, <hi>ſh.</hi> 10 <hi>d.</hi> 2, which is <hi>L.</hi> 480, <hi>ſh.</hi> 9 <hi>d.</hi> 6, and the <hi>L.</hi> 60 deducted, will pay all Claims, and <hi>L.</hi> 11149, <hi>ſh.</hi> 19 <hi>d.</hi> 8 remain.</p>
+            <p>In the ninth Year may die 60, and the claimants receive <hi>L.</hi> 1200, and the inſured pay <hi>L.</hi> 2200, which with the Intereſt of <hi>L.</hi> 11149, <hi>ſh.</hi> 19 <hi>d.</hi> 8, which is <hi>L.</hi> 557 <hi>ſh.</hi> 9 <hi>d.</hi> 11 ¾, and the <hi>L.</hi> 60 deducted, will pay all Claims, and <hi>L.</hi> 12767, <hi>ſh.</hi> 9 <hi>d.</hi> 7 ¼ remain.</p>
+            <p>In the tenth Year may die 60, and the Claimants receive <hi>L.</hi> 1200, and the inſured pay <hi>L.</hi> 2200, which with the Intereſt of <hi>L.</hi> 12767, <hi>ſh.</hi> 9 <hi>d.</hi> 7 ¼, which is <hi>L.</hi> 638 <hi>ſh.</hi> 7 <hi>d.</hi> 6, and the <hi>L.</hi> 60 deducted will pay all Claims, and <hi>L.</hi> 14465 <hi>ſh.</hi> 17 <hi>d.</hi> 1 ¾ will remain.</p>
+            <p>In the eleventh may die 60, and the Claimants receive <hi>L.</hi> 1200, and the inſured pay <hi>L.</hi> 2200, which with the Intereſt of <hi>L.</hi> 14465 <hi>ſh.</hi> 17 <hi>d.</hi> 1 ¾, which is <hi>L.</hi> 723 <hi>ſh.</hi> 5 <hi>d.</hi> 9, and the <hi>L.</hi> 60 Deduction, will pay all Claims, and <hi>L.</hi> 16249 <hi>ſh.</hi> 2 <hi>d.</hi> 10 ¾, remain at the End of the eleventh Year, which will be a Stock ſufficient to make all Claims good, according to the Articles; for there
+<pb n="15" facs="tcp:38701:9"/>will be coming to the Stock of this Company every Year up<g ref="char:EOLhyphen"/>wards of <hi>L.</hi> 800 <hi>per Annum,</hi> to pay the firſt and ſecond <hi>L.</hi> 500, beſides their Quarterage after 10 Years are expired, which will be <hi>L.</hi> 200 <hi>per Annum,</hi> and <hi>L.</hi> 600 by thoſe that have re<g ref="char:EOLhyphen"/>ceived their Claims, beſides the Quarterage of ſuch as have not paid 10 Years upon one Life. So that you plainly ſee, that in this Company there will be no Hazard run, nor can any Perſon that embarks, be in any Fear of being a Loſer, becauſe here will be Fund ſufficient to pay the firſt 500 Sub<g ref="char:EOLhyphen"/>ſcribers, and their Heirs, their Claims for ever, and the ſecond during their Life, and the Stock continually increaſing. Such an Undertaking, which ſeveral very wiſe and ingenious Men are obliged to confeſs, when they come to a full Underſtand<g ref="char:EOLhyphen"/>ing of it, to be the moſt uſeful and beneficial to all Ranks and Degrees of Men, that ever was made publick to the World in any Age before; and for this Reaſon it is that I recom<g ref="char:EOLhyphen"/>mend it to the ſerious Conſideration of all, as highly uſeful and neceſſary for a publick Good, and make no Doubt but it will meet with great Encouragement in many more Parts of this Kingdom, where it would be highly uſeful, and a Means to advance the Fortunes of many for the future.</p>
+            <p>And whereas by ſeveral Acts of Parliament made for the Payment of Cuſtoms of divers Goods, Wares, Merchandize, imported into <hi>Great Britain,</hi> an Allowance of 6 <hi>per Cent</hi> and upwards, for others to 12 <hi>per Cent,</hi> is made to all Merchants upon prompt Payment of their Cuſtoms.</p>
+            <p>And whereas many Merchants and Traders, though Men of good Credit and Subſtance, by Reaſon of Loſſes abroad and Diſappointments at Home, may be, and, as is well known, are oftimes put to great Straits and Neceſſities, and for want of ready Money, are obliged to allow very great and exor<g ref="char:EOLhyphen"/>bitant Premiums, beſides Intereſt for Advance thereof, to pay the ſaid Cuſtoms, moſt Part whereof muſt be paid before any Goods can be landed; or, which is of worſe Conſequence, they are forced to leave their whole Cargo aboard, or in the King's Ware-houſe, or Boats made for that Purpoſe, where
+<pb n="16" facs="tcp:38701:10"/>the Goods often ſuffer much Damage, and the Merchant loſes a good Market, and if periſhable Wares, the King oftimes loſes the Cuſtoms, and the Trader is undone.</p>
+            <p>The better then to promote Trade, and to prevent the like Miſchief for the future, it is purpoſed, That at this Office will be kept conſiderable Sums of Money, which will be managed by ſome rich and ſubſtantial Gentlemen, who are to be Gover<g ref="char:EOLhyphen"/>nors and Directors of this Society: Which ſaid Governors ſhall be upon the ſame Footing that the South Sea, and Eaſt India Com<g ref="char:EOLhyphen"/>panies are upon: Which will be an Advantage to all Merchants in general, as well as the Crown.</p>
+            <p>The Fund is to ſupply all Merchants and Traders with ready Money for 3 or 4 Months without Intereſt, in order to make prompt Payment of ſuch Goods, Wares, and Merchan<g ref="char:EOLhyphen"/>dize as are ſettled upon the Crown by Acts of Parliament, for the ſpeedy Diſcharge of all Ships; for which, I think, it is plainly apparent for the Merchants and Traders either by Sea or Land their Intereſt.</p>
+            <p>This Method moſt certainly will make <hi>Scotland</hi> have a flouriſhing Trade; and ſo much the more for this Reaſon; for as ſoon as any Foreign Ships come in, here will be no want of Money or Funds, ſo there can be no Delay in un<g ref="char:EOLhyphen"/>lading the Ships, and clearing them out, and making ready for to load again for any other Port; which will cauſe ſeveral Voyages more to be made in a Year, than they could have done, if they ſhould want ſuch great Advantages as they, I hope, will receive here.</p>
+            <p>For what greater Advantage can any Merchant or Trader find, than to be always ſupply'd with ready Money upon all Occaſions; which perhaps if they ſhould want, might be a Detriment, and perhaps the Ruin of many Owners, Mer<g ref="char:EOLhyphen"/>chants and Sailors. By this Scheme all Traders will be en<g ref="char:EOLhyphen"/>couraged, and the Poor have plenty of Work, and a better Price for it: Nay, all other Traders whatſoever will partake of the ſame Benefit, and the King's Revenues increaſed, and no Perſon impoſed upon, or pay, or run Sixpence Hazard
+<pb n="17" facs="tcp:38701:10"/>upon any Account whatſoever; the like whereof never was known in any publick Undertaking in <hi>Europe.</hi> Now by ſeveral Acts of Parliament made for the Conſideration of prompt Payment, which, by a true Medium, may reaſonably be ſup<g ref="char:EOLhyphen"/>poſed to amount to 9 <hi>per Cent.</hi> take one ſort of Goods with another, this 9 <hi>per Cent.</hi> being often returned, may make to the Company 18 <hi>per Cent. per Annum;</hi> which I hope will not only be a Benefit to the Founder of this Office, but alſo to every one that is concerned in it. This Method is ſo fully explained, and ſo fully demonſtrated unto all Ca<g ref="char:EOLhyphen"/>pacities, That the very Nature of the Undertaking explains it ſelf; and there is no doubt but it will anſwer every Par<g ref="char:EOLhyphen"/>ticular of the propos'd End. That I may make all things as plain as the Sun at Noon-day, I have ſpared for no Coſt or Pains to anſwer all Objections that may ariſe; and to make good every Thing that aſſerts for this End; which I hope is plainly made appear to the meaneſt Capacity, how advanta<g ref="char:EOLhyphen"/>geous ſuch an Office will be to Merchants and Tradeſmen in general; and for this Reaſon that Merchants and Gentlemen are very cautious of entring into Bonds to the Crown; which if they do not, they oftimes are forced to give 12, 15, 18, nay, perhaps 20 <hi>per Cent.</hi> for Money to Money-Traders: But here they have Money without troubling Friends to manage their Affairs, and which makes the greater Ad<g ref="char:EOLhyphen"/>vantage, to have Money, without Intereſt: And by this Scheme I hope the Company will be fixed upon as good a Founda<g ref="char:EOLhyphen"/>tion as any Company, Bank or Fund in <hi>Europe.</hi>
+            </p>
+            <p>For which this Author does not only hope to have the Concern of all Perſons as Subſcribers where this Book ſhall come; but hopes to have their Prayers and Well-wiſhes to GOD for promoting ſo good an Undertaking for the Ad<g ref="char:EOLhyphen"/>vantage of the Poor.</p>
+            <p>N. B. <hi>That if any Gentlemen or others cannot be fully ſatisfied of the true Intent and Meaning of this <g ref="char:V">Ʋ</g>ndertaking, if they pleaſe to enquire at Mr.</hi> Bailie's <hi>in the</hi> Canongate, <hi>they ſhall receive full Satisfaction, from the Author or his Clerk, who
+<pb n="18" facs="tcp:38701:11"/>will conſtantly attend there for that Purpoſe, till the Office is opened.</hi>
+            </p>
+            <p>
+               <hi>Every one that ſhall buy one of theſe Books and ſubſcribe, ſhall when he takes out his Bond, have his Money returned, and shall have the Book</hi> gratis.</p>
+         </div>
+         <div type="notice_of_registration">
+            <head>Advertiſement.</head>
+            <p>TO ſecure the Rights and Properties of Copies in the Proprietor's Perſon, accordiag to ſeveral Acts of Par<g ref="char:EOLhyphen"/>liament, and to prevent the publiſhing thereof by any other Perſon whatſoever; Notice is hereby given, That the Author hereof hath regiſtred and entred theſe Preſents in the Hall-Book of Offices: And that if any Perſon or Perſons ſhall Print, Reprint or publiſh theſe Articles, or any Part thereof, or any Thing thereunto belonging, the Proprietor hereof will, in Purſuance to the Liberty allowed by the ſaid Acts of Parliament, proſe<g ref="char:EOLhyphen"/>cute all and every of the ſaid Perſons, and all Printers and Publiſhers whatever.</p>
+            <pb facs="tcp:38701:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
